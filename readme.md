@@ -1,5 +1,3 @@
 this is readme file that is branced.
-master file
-
-#just get a new update.
-this is nothing just a issue
+now im going to update 
+everthing here. checking that it chagned in git or not
